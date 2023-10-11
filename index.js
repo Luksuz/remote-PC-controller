@@ -27,7 +27,7 @@ jumpscareBtnEL.addEventListener("click", async () => {
 
 async function jumpscareRequest() {
     try {
-        const response = await fetch("http://192.168.1.118:5000/",
+        const response = await fetch("https://192.168.1.118:5000/",
             {
                 method: "POST"
             }
