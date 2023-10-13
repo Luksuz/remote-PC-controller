@@ -1,0 +1,6 @@
+Flask
+requests
+selenium
+opencv-python
+flask-cors
+cryptography
